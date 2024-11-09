@@ -1,4 +1,4 @@
-<h2 align="left">Hi ☺️ ! My name is Alberto Junior , I'm Software Engineer .</h2>
+<h2 align="left">Hi    ! My name is Alberto Junior , I'm Software Engineer .</h2>
 
 ###
 
